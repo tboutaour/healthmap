@@ -52,3 +52,4 @@ Tablas DuckDB principales: `garmin_daily_summary`, `garmin_sleep`, `garmin_hrv`,
 # healthmap
 # healthmap
 # healthmap
+# healthmap
