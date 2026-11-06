@@ -50,3 +50,4 @@ Tablas DuckDB principales: `garmin_daily_summary`, `garmin_sleep`, `garmin_hrv`,
 `strava_streams`, … y las vistas `v_daily_state` (1 fila/día) y `v_activity_link`
 (empareja actividades Garmin↔Strava).
 # healthmap
+# healthmap
